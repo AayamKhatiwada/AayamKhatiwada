@@ -55,32 +55,12 @@
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,js,nodejs,express,mongodb,firebase,html,css,tailwind,git,github,figma,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🔥 GitHub Streaks
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=aayamkhatiwada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-  <img
-    height="180em"
     src="https://streak-stats.demolab.com?user=aayamkhatiwada&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayamkhatiwada&layout=compact&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -112,32 +92,3 @@
 - Minesweeper Game
 - Sudoku Game
 - Interactive browser mini-games using JavaScript & Canvas
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayamkhatiwada&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-```js
-while(alive) {
-   eat();
-   code();
-   sleep();
-   repeat();
-}
-```
-
-> I love building apps, experimenting with new ideas, and turning concepts into real-world products 🚀
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
-</p>
