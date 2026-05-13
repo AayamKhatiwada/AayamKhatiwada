@@ -30,15 +30,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayamkhatiwada&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aayamkhatiwada&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=aayamkhatiwada&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayamkhatiwada&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayamkhatiwada&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayamkhatiwada&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em" 
+  />
 </p>
 
 ---
